@@ -75,7 +75,7 @@ search engines and business intelligence.
 ```
 
 <H3>Output</H3>
-![1](https://github.com/sithihajara/Ex-7-AAI/assets/94219582/9395e2a1-f2ea-480b-8c09-58742fd13a3f)
+![image](https://github.com/sithihajara/Ex-7-AAI/assets/94219582/34a3d2d2-e0b1-4697-9a69-829e05efde8e)
 
 
 <H3>Result:</H3>
